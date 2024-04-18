@@ -15,5 +15,6 @@ public void softassert() {
 	int a=10;
 	sa.assertNull(a);
 	sa.assertAll();
+	//hihihi
 }
 }
