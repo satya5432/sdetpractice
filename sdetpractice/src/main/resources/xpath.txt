@@ -1,0 +1,6 @@
+                                                            xpath
+ //div[@class='_2kHMtA' and contains(.,'Apple iPhone 14 (Blue, 128 GB)')]/descendant::div[@class='_30jeq3 _1_WHN1
+//div[@class='puisg-row' and contains(.,'Apple iPhone 13 (128GB) - Green')]/descendant::span[@class='a-price'
+//div[@class='puisg-row' and contains(.,'Apple iPhone 15 Plus (128 GB) - Black')]/descendant::span[@class='a-price']
+//div[@class='a-section a-spacing-small a-spacing-top-small' and contains(.,'Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 512GB Storage)') and contains(.,'Sponsored')]/descendant::span[@class='a-price-whole']
+//h2[text()='The Most Searched Cars']/following-sibling::div//ul[@class='gsc-ta-clickWrap ']/li

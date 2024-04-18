@@ -1,0 +1,2 @@
+//a[text()='Sign in into account']//ancestor::div[@class='container']//descendant::input[2]
+//span[text()='Apple iPhone 13 (256GB) - Blue']/ancestor::div[@class='puisg-row']/descendant::span[@class='a-price']

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="testngpractice.AnnotationTest">
+        <methods>
+          <include name="LuunchBrowser"/>
+          <include name="Runtest"/>
+          <include name="As"/>
+          <include name="logouttoapp"/>
+          <include name="bs"/>
+          <include name="ac"/>
+          <include name="connectToDB"/>
+          <include name="loginToApp"/>
+          <include name="bm"/>
+          <include name="closebrowser"/>
+          <include name="Am"/>
+          <include name="closeDBconnection"/>
+          <include name="bc"/>
+        </methods>
+      </class> <!-- testngpractice.AnnotationTest -->
+      <class name="testngpractice.testngcmdpromtTest">
+        <methods>
+          <include name="LuunchBrowser"/>
+          <include name="connectToDB"/>
+          <include name="test"/>
+          <include name="loginToApp"/>
+          <include name="demotest"/>
+          <include name="closebrowser"/>
+          <include name="logouttoapp"/>
+          <include name="closeDBconnection"/>
+        </methods>
+      </class> <!-- testngpractice.testngcmdpromtTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
